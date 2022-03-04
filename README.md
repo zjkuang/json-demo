@@ -2,7 +2,10 @@
 https://my-json-server.typicode.com
 
 ## Requirements
-The JSON file must be db.json in the root directory of the repository on main or master branch
+The JSON file must be
+ - named `db.json`
+ - located in the repository's root directory
+ - on `main` or `master` branch
 
 ## How to fetch
 
