@@ -28,5 +28,7 @@ e.g. We have in db.json
 In browser:  
   https://my-json-server.typicode.com/zjkuang/json-demo  
   https://my-json-server.typicode.com/zjkuang/json-demo/profile  
-  https://my-json-server.typicode.com/zjkuang/json-demo/services
-  
+  https://my-json-server.typicode.com/zjkuang/json-demo/services  
+REST API  
+  GET https://my-json-server.typicode.com/zjkuang/json-demo/profile  
+  GET https://my-json-server.typicode.com/zjkuang/json-demo/services  
